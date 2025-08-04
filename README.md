@@ -88,10 +88,6 @@ Register/Login
 
 Book sessions with experts
 
-image(3).png
-image(4).png
-img1.png
-
 📄 License
 This project is open-source and available under the MIT License.
 
