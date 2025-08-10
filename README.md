@@ -14,23 +14,6 @@ A Java-based web application that provides a platform for students or job seeker
 
 ## Project Structure
 
-Career-guidance-connect-with-experts/
-│
-├── WebContent/
-│ ├── css/ # Stylesheets
-│ ├── js/ # JavaScript files
-│ ├── images/ # Static image assets
-│ ├── jsp/ # JSP pages
-│ └── WEB-INF/ # web.xml configuration
-│
-├── src/
-│ ├── controller/ # Servlets
-│ ├── dao/ # Data Access Layer
-│ ├── model/ # JavaBeans / Models
-│
-├── SQL/
-│ └── career_guidance.sql # MySQL DB schema
-└── README.md
 
 bash
 Copy
