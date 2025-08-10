@@ -43,7 +43,6 @@ Run on Server
 
 Right-click project → Run on Server (Apache Tomcat).
 
-Access the app at: http://localhost:8080/Career-guidance-connect-with-experts
 
 User Roles
 Admin
